@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chapter3-MVC.iml" filepath="$PROJECT_DIR$/.idea/modules/Chapter3-MVC.iml" group="Chapter3-MVC" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc/Chapter3-MVC-mvc.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc/Chapter3-MVC-mvc.iml" group="Chapter3-MVC/mvc" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc-active/Chapter3-MVC-mvc-active.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc-active/Chapter3-MVC-mvc-active.iml" group="Chapter3-MVC/mvc-active" />
-      <module fileurl="file://$PROJECT_DIR$/EnDiary.iml" filepath="$PROJECT_DIR$/EnDiary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mvc/mvc.iml" filepath="$PROJECT_DIR$/mvc/mvc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mvc-active/mvc-active.iml" filepath="$PROJECT_DIR$/mvc-active/mvc-active.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chapter3-MVC.iml" filepath="$PROJECT_DIR$/.idea/modules/Chapter3-MVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc/Chapter3-MVC.mvc.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc/Chapter3-MVC.mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc-active/Chapter3-MVC.mvc-active.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc-active/Chapter3-MVC.mvc-active.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc-active/Chapter3-MVC.mvc-active.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc-active/Chapter3-MVC.mvc-active.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc-active/Chapter3-MVC.mvc-active.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc-active/Chapter3-MVC.mvc-active.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc-active/Chapter3-MVC.mvc-active.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc-active/Chapter3-MVC.mvc-active.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc/Chapter3-MVC.mvc.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc/Chapter3-MVC.mvc.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc/Chapter3-MVC.mvc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc/Chapter3-MVC.mvc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc/Chapter3-MVC.mvc.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc/Chapter3-MVC.mvc.unitTest.iml" />
     </modules>
   </component>
 </project>
